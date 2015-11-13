@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula11</string>
+
+    <string name="hello_world">Isso é um teste!</string>//pra internacionalização
+    <string name="edit_message">Qualquer coisa</string>
+    <string name="edit_message2">sdsds</string>
+    <string name="action_settings">Settings</string>
+</resources>
